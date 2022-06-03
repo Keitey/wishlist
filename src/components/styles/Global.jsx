@@ -18,10 +18,6 @@ const GlobalStyles = createGlobalStyle`
         font-family: 'Nunito', sans-serif;
         background-color: #F2F4ED;
     }
-    
-    img{
-        max-width: 100%;
-    }
 
     a{
         text-decoration: none;
